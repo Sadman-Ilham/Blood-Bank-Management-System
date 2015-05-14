@@ -4,7 +4,7 @@ This is a management system for maintaining a blood bank institution. With this 
 
 **Features that are not implemented**
 
-I have planed some more features like,
+I have planned some more features like,
   - When the stock of any blood group is almost finished the donors with corresponding blood groups will be requested via email to donate blood. If that donor doesn't have any email address, then the authority would be notified to make a call to that donor.
   - Move the expired blood to another table in the database, so that when the authority attempts to sell that bag of blood he/she will be notified the expiration of the blood based on some query on that table.
   
