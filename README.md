@@ -15,3 +15,4 @@ Due to lack of time I couldn't implemented these features. And later on the focu
   - Language: C#
   - Framework: .Net
   - RDBMS: Oracle.
+  - IDE: Visual Studio 2012
